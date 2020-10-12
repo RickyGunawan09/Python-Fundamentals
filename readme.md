@@ -1,0 +1,1 @@
+Dasar-dasar logika python
